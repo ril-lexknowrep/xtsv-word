@@ -13,6 +13,8 @@ test:
 	poetry run pytest
 .PHONY: test
 
+PYPI_USER=gpetho
 publish:
+	poetry config http-basic.pypi $(PYPI_USER)
 	poetry publish
 .PHONY: publish
