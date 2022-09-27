@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "xtsv-word"
-version = "1.0.1"
+version = "1.0.2"
 description = "A dataclass-like structure to make the handling of xtsv token attributes comfortable and transparent"
-homepage = "https://github.com/ril-lexknowrep/xtsv_word"
+homepage = "https://github.com/ril-lexknowrep/xtsv-word"
 authors = ["Pethő Gergely <pagstudium@gmail.com>"]
-license = "LGPL 3.0"
+license = "LGPLv3"
 readme = "README.md"
 packages = [{include = "xtsv_word"}]
 
