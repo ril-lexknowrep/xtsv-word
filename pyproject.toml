@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "xtsv-word"
-version = "1.0.0"
+version = "1.0.1"
 description = "A dataclass-like structure to make the handling of xtsv token attributes comfortable and transparent"
 homepage = "https://github.com/ril-lexknowrep/xtsv_word"
 authors = ["Pethő Gergely <pagstudium@gmail.com>"]
